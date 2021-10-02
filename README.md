@@ -1,2 +1,2 @@
 # Big Three Analysis
-## One Piece || Naruto || Bleach
+## `One Piece` || `Naruto` || `Bleach`
